@@ -1,6 +1,6 @@
 # Cube
 
-## In this project I port [servetgulnaroglu'](https://github.com/servetgulnaroglu/cube.c) Cube code originally written in C to modern C++
+## In this project I port [servetgulnaroglu's](https://github.com/servetgulnaroglu/cube.c) Cube code originally written in C to modern C++
 
 
 - Understand the code in C
