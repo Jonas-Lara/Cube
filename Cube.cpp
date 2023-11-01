@@ -4,7 +4,6 @@
 #include <thread>
 #include <chrono>
 #include <vector>
-// #include <emscripten.h>
 
 float A, B, C;
 

@@ -99,4 +99,4 @@ let main argv =
         C <- C + 0.01
         System.Threading.Thread.Sleep(50)
 
-    0 // Return an integer exit code
+    0 
