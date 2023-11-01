@@ -5,10 +5,10 @@
 
 ### 1) Understand and rewrite the C code to C++ to C# and finally to F#.
 
-- Understand the code in C
-- Rewrite the code in C++ 
-- Rewrite the C++ code to C# 
-- Rewrite the C# code to F# with several changes to make it more functional
+- **Understand the code in C**
+- **Rewrite the code in C++** 
+- **Rewrite the C++ code to C#** 
+- **Rewrite the C# code to F# with several changes to make it more functional**
 
 ### 2) Migrate the code to WASM, I have two options
 
