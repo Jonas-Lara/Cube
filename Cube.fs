@@ -97,6 +97,6 @@ let main argv =
         A <- A + 0.05
         B <- B + 0.05
         C <- C + 0.01
-        System.Threading.Thread.Sleep(50)
+        System.Threading.Thread.Sleep(10)
 
     0 
