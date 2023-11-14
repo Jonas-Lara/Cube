@@ -91,7 +91,7 @@ buffer.[0 .. width * height - 1] <- Array.init (width * height) (fun _ -> backgr
 Array.fill zBuffer 0 (width * height) 0.0
 ```
 
-### Buffer Empty
+### Buffer empty
 
 ```C
 printf("\x1b[H");
