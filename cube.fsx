@@ -96,4 +96,3 @@ let drawFrame () =
 
 while true do
     drawFrame()
-    
