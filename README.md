@@ -109,3 +109,6 @@ for k in 0 .. width * height - 1 do
     | _ -> Console.Write(buffer.[k])
 ```
 
+## Acknowledgments 🎁
+
+_Written with ❤️ by [Jonas Lara](https://twitter.com/jonas1ara) for anyone who is interested_
